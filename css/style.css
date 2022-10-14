@@ -1,0 +1,25 @@
+.bg-body{
+    background-color:rgb(141, 141, 141);
+}
+.bg-custom{
+    background-color: rgb(255, 255, 255);
+    border-radius: 14px;
+}
+.font-custom{
+    font-size: 10px;
+}
+.b-radius{
+    border-radius: 5px;
+}
+.text{
+    font-size: 10px;
+}
+.bg-custom-icon{
+    color: #00BECA;
+}
+.p-custom{
+    padding: 0rem 2rem 8rem 2rem;
+}
+#p1{
+    font-size: 70%;
+}
